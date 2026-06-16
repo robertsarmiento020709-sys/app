@@ -180,12 +180,6 @@
         "url": "http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
     },
     {
-        "name": "CINE MO!",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg",
-        "group": "Movies",
-        "url": "tvpass://95"
-    },
-    {
         "name": "Cinema One",
         "logo": "https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png",
         "category": "TV Channels",
