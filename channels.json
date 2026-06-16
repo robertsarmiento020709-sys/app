@@ -984,6 +984,13 @@
         "url": "tvpass://53"
     },
     {
+        "name": "Disney",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg",
+        "group": "Entertainment",
+        "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8"
+    },
+
+    {
         "name": "Xingkong",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s",
         "category": "TV Channels",
