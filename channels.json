@@ -984,8 +984,8 @@
         "url": "tvpass://53"
     },
     {
-        "name": "Disney",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg",
+        "name": "Disney Jr",
+        "logo": "https://static.wikia.nocookie.net/disneyjuniorpedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20250929180403",
         "group": "Entertainment",
         "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8"
     },
